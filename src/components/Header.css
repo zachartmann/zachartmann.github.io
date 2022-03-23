@@ -1,0 +1,13 @@
+.header {
+  background-color: green;
+  border-bottom: 1px solid black;
+  height: 4rem;
+  text-align: center;
+  width: 100%;
+}
+
+.header > h1 {
+  text-align: center;
+  padding-top: 8px;
+  margin: auto;
+}
